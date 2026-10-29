@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Knowledge Notebook",
+    "description": "Import datasets and documents, bind them to a conversation, and answer strictly from the selected knowledge bases with expandable citations."
+  },
+  "panel": {
+    "title": "Knowledge",
+    "empty": "No knowledge base yet. Create one, then import data.",
+    "new": "New knowledge base",
+    "name": "Name",
+    "description": "Description",
+    "documents": "Documents",
+    "chunks": "Passages",
+    "bind": "Bind to this conversation",
+    "bound": "Bound",
+    "unbind": "Unbind",
+    "scopeChanged": "Knowledge scope changed",
+    "search": "Search",
+    "import": "Import"
+  },
+  "composer": {
+    "none": "No knowledge bound",
+    "count": "{{count}} knowledge bases",
+    "pick": "Pick knowledge bases",
+    "strict": "Strict mode"
+  }
+}

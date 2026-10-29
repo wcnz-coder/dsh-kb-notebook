@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "知识库笔记本",
+    "description": "导入数据库与文档，在新建对话时绑定，回答严格依据所选知识库并给出可展开的引用。"
+  },
+  "panel": {
+    "title": "知识库",
+    "empty": "还没有知识库。新建一个，然后导入数据。",
+    "new": "新建知识库",
+    "name": "名称",
+    "description": "描述",
+    "documents": "文档",
+    "chunks": "片段",
+    "bind": "绑定到当前对话",
+    "bound": "已绑定",
+    "unbind": "解除绑定",
+    "scopeChanged": "知识库范围已变化",
+    "search": "检索",
+    "import": "导入"
+  },
+  "composer": {
+    "none": "未绑定知识库",
+    "count": "{{count}} 个知识库",
+    "pick": "选择知识库",
+    "strict": "严格模式"
+  }
+}

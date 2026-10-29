@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Knowledge notebook">
+  <defs>
+    <linearGradient id="kb-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4c8dff"/>
+      <stop offset="1" stop-color="#7a5cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#kb-g)"/>
+  <path d="M20 15h17a7 7 0 0 1 7 7v27H27a7 7 0 0 1-7-7V15z" fill="#fff" opacity="0.95"/>
+  <path d="M27 22h11M27 28h11M27 34h7" stroke="#5b6bff" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M44 22v27" stroke="#5b6bff" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="47" cy="45" r="6.5" fill="#fff"/>
+  <path d="M47 41.5v3.6l2.4 1.6" stroke="#7a5cff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

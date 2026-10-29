@@ -1,0 +1,25 @@
+# 依赖与构建
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+.pnpm-store/
+
+# 测试与演示的临时数据
+.testhome/
+.tmpschk/
+demo/.home/
+
+# 检索探针：npm pack 解包出来的第三方包源码，仅本地研究用
+_probe/
+
+# 知识库数据文件（真实资料不入库）
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
